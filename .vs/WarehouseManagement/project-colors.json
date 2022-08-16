@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "73861ed5-f978-4ae9-b512-c79da4a1060e": {
+      "ProjectGuid": "73861ed5-f978-4ae9-b512-c79da4a1060e",
+      "DisplayName": "WarehouseManagement",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "effeefce-bdda-48ba-9169-fc2547d29c4e": {
+      "ProjectGuid": "effeefce-bdda-48ba-9169-fc2547d29c4e",
+      "DisplayName": "Test.WarehouseManagement",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
